@@ -1,2 +1,2 @@
 ## Deep-Learning-VGG16
-### Klasifikasi Citra
+### F 551 20 058 - Sri Putriana
